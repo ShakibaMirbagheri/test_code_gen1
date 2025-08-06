@@ -1,3 +1,4 @@
+Language is JAVA.
 Create a java class, that will have some public fields:
 uuid (String)
 name (String)
